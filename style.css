@@ -36,6 +36,11 @@ ul {
   padding-top: 15px;
 }
 
+.shop{
+  display: flex;
+  float: right;
+}
+
 
 .container {
   width: 100%;
@@ -86,4 +91,16 @@ li:hover {
   margin-top: 4rem;
   letter-spacing: 16px;
   font-size: 14px;
+}
+
+.watch{
+  width: 489px;
+  height: auto;
+  display: flex;
+  float: right;
+  justify-content: flex-end;
+  align-items: center;
+
+  margin-right: 15rem;
+  margin-top: 2rem;
 }
